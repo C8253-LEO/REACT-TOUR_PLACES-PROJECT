@@ -1,0 +1,10 @@
+.page-header{
+    display: inline-block;
+    background-color: royalblue;
+    color: white;
+    font-size: 2.5rem;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
